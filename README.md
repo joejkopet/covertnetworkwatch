@@ -1,5 +1,5 @@
 # Covert Network Watch
-![image](https://github.com/user-attachments/assets/4caad92a-30cb-4e54-a3d2-1d20b75649ae)
+![image](https://github.com/joejkopet/covertnetworkwatch/blob/main/logo.png)
 
 
 **Covert Network Watch** is a passive network reconnaissance tool designed to monitor network interfaces and display various network-related information. This tool provides detailed insights into different aspects of the network, helping network security professionals to analyze and understand their network environment.
