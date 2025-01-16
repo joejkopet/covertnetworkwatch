@@ -49,7 +49,7 @@ Many network devices come with default configurations that broadcast a significa
 
 ## Screenshot
 
-![image](https://github.com/joejkopet/covertnetworkwatch/blob/main/screenshot.png)">
+![image](https://github.com/joejkopet/covertnetworkwatch/blob/main/screenshot.png)"
 
 ## Security Implications of Network Information
 
